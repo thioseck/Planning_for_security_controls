@@ -8,8 +8,8 @@ MO, and accommodates approximately 100 full-time employees. The office park is h
 # Instructions
 
 ## Phase 1: The environment
- Review how well COMPANY_A’s current security controls hold-up against the NIST-800-53 framework.
- Make potential recommendations to add or enhance physical, administrative, and logical controls used by COMPANY_A. 
+ We will review how well COMPANY_A’s current security controls hold-up against the NIST-800-53 framework.
+ We will also make potential recommendations to add or enhance physical, administrative, and logical controls used by COMPANY_A. 
 
 ## Phase 2: Security design
 Due to the global pandemic, the World Health Organization declares a global health emergency. Many countries order an immediate lockdown of industrial and commercial facilities, travel
