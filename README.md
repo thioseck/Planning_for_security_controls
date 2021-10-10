@@ -1,4 +1,4 @@
-# Planning_for_security_controls
+# Planning for security controls
 
 # Goal
 Objective of this project is to protect, detect, and respond to possible threats to the security of the organization’s mission COMPANY_A. Founded in 2010, COMPANY_A develops and sells
@@ -6,10 +6,10 @@ the famous “Beeplepop” along with a line of household innovations that forev
 MO, and accommodates approximately 100 full-time employees. The office park is home to 3-4 similarly sized companies with shared parking facilities.
 
 # Instructions
-Here are the steps we will be taking
+
 ## Phase 1: The environment
-* Review how well COMPANY_A’s current security controls hold-up against the NIST-800-53 framework.
-* Make potential recommendations to add or enhance physical, administrative, and logical controls used by COMPANY_A. 
+ Review how well COMPANY_A’s current security controls hold-up against the NIST-800-53 framework.
+ Make potential recommendations to add or enhance physical, administrative, and logical controls used by COMPANY_A. 
 
 ## Phase 2: Security design
 Due to the global pandemic, the World Health Organization declares a global health emergency. Many countries order an immediate lockdown of industrial and commercial facilities, travel
